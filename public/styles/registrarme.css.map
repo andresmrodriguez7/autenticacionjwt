@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,mBAAmB;CAC9B",
+    "sources": [
+        "registrarme.scss"
+    ],
+    "names": [],
+    "file": "registrarme.css"
+}
